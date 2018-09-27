@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "c65935e95e7029ffc43c526401a33298",
+    "content-hash": "caa34022e97c7961e95b120066c0c739",
     "packages": [
         {
             "name": "colinmollenhour/credis",
@@ -485,12 +485,12 @@
         },
         {
             "name": "magento/framework",
-            "version": "101.0.5",
+            "version": "101.0.6",
             "dist": {
                 "type": "zip",
-                "url": "https://repo.magento.com/archives/magento/framework/magento-framework-101.0.5.0.zip",
+                "url": "https://repo.magento.com/archives/magento/framework/magento-framework-101.0.6.0.zip",
                 "reference": null,
-                "shasum": "9cbe6e114fc084d6348c8f2b20167c20292ad1fc"
+                "shasum": "dc863245696136adcd8034a69e8d41ff45787b0d"
             },
             "require": {
                 "colinmollenhour/php-redis-session-abstract": "1.3.4",

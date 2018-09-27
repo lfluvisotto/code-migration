@@ -24,7 +24,7 @@
         "zendframework/zend-stdlib": "^2.7.7",
         "zendframework/zend-code": "~3.1.0",
         "magento/zendframework1": "~1.13.0",
-        "magento/framework": "*",
+        "magento/framework": "^101.0",
         "pear-pear.php.net/xml_serializer": "*",
         "zendframework/zend-http": "^2.6.0"
     },
